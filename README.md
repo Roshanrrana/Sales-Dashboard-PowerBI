@@ -24,7 +24,7 @@ This is an interactive Sales Dashboard created using Power BI and Excel. It prov
 | `Sales_Dashboard.pbix`   | Power BI Dashboard file                          |
 | `dataset.xlsx`           | Sample sales data for 30 days                    |
 | `README.md`              | Project documentation                            |
-| `images/sales_dashboard.png` | Dashboard preview image                    |
+| `Dashboard.png` | Dashboard preview image                    |
 
 ---
 
